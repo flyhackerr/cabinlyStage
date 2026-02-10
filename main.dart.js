@@ -49972,7 +49972,7 @@ $9(a,b,c,d,e,f,g,h,i){return this.F(this,A.H("call","$9",0,[a,b,c,d,e,f,g,h,i],[
 $7(a,b,c,d,e,f,g){return this.F(this,A.H("call","$7",0,[a,b,c,d,e,f,g],[],0))},
 $7$amenities$description$photoUrls$propertyDetailsId$propertyId$source$title(a,b,c,d,e,f,g){return this.F(this,A.H("call","$7$amenities$description$photoUrls$propertyDetailsId$propertyId$source$title",0,[a,b,c,d,e,f,g],["amenities","description","photoUrls","propertyDetailsId","propertyId","source","title"],0))},
 $2$color$fontFamily(a,b){return this.F(this,A.H("call","$2$color$fontFamily",0,[a,b],["color","fontFamily"],0))},
-$4$allowMultiple$allowedExtensions$type$withData(a,b,c,d){return this.F(this,A.H("call","$4$allowMultiple$allowedExtensions$type$withData",0,[a,b,c,d],["allowMultiple","allowedExtensions","type","withData"],0))},
+$3$allowMultiple$type$withData(a,b,c){return this.F(this,A.H("call","$3$allowMultiple$type$withData",0,[a,b,c],["allowMultiple","type","withData"],0))},
 $8$enableDomStorage$enableJavaScript$headers$universalLinksOnly$useSafariVC$useWebView$webOnlyWindowName(a,b,c,d,e,f,g,h){return this.F(this,A.H("call","$8$enableDomStorage$enableJavaScript$headers$universalLinksOnly$useSafariVC$useWebView$webOnlyWindowName",0,[a,b,c,d,e,f,g,h],["enableDomStorage","enableJavaScript","headers","universalLinksOnly","useSafariVC","useWebView","webOnlyWindowName"],0))},
 $2$ignoreChildRoutes$ignorePagelessRoutes(a,b){return this.F(this,A.H("call","$2$ignoreChildRoutes$ignorePagelessRoutes",0,[a,b],["ignoreChildRoutes","ignorePagelessRoutes"],0))},
 $11$args$autoFilled$children$evaluatedGuards$fragment$key$pathParams$queryParams$redirectedFrom$segments$stringMatch(a,b,c,d,e,f,g,h,i,j,k){return this.F(this,A.H("call","$11$args$autoFilled$children$evaluatedGuards$fragment$key$pathParams$queryParams$redirectedFrom$segments$stringMatch",0,[a,b,c,d,e,f,g,h,i,j,k],["args","autoFilled","children","evaluatedGuards","fragment","key","pathParams","queryParams","redirectedFrom","segments","stringMatch"],0))},
@@ -59557,7 +59557,7 @@ x5(a){return this.aqj(a)},
 aqj(a){var s=0,r=A.v(t.H)
 var $async$x5=A.w(function(b,c){if(b===1)return A.r(c,r)
 while(true)switch(s){case 0:s=2
-return A.y(A.brC().aIo(!0,A.c(["jpg","jpeg","png","gif","webp"],t.s),B.Y6,!0),$async$x5)
+return A.y(A.brC().aIo(!0,B.Y6,!0),$async$x5)
 case 2:return A.t(null,r)}})
 return A.u($async$x5,r)},
 L(a){var s=this,r=null,q=A.x(a).ax.a===B.e?A.k(4294967295):A.k(4279834912),p=t.p
@@ -122898,7 +122898,7 @@ B.iX=new A.oU(!1,!1,!1,!0)
 B.mO=new A.oU(!0,!1,!1,!1)
 B.mP=new A.oU(!0,!1,!1,!0)
 B.rQ=new A.R(240,"unknown")
-B.Y6=new A.atQ(5,"custom")
+B.Y6=new A.atQ(2,"image")
 B.Y7=new A.vn(B.dm,null)
 B.Y8=new A.HG(null)
 B.e3=new A.vo(0,"none")
