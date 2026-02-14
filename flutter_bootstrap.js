@@ -36,8 +36,15 @@ if (!window._flutter) {
 }
 _flutter.buildConfig = {"engineRevision":"035316565ad77281a75305515e4682e6c4c6f7ca","builds":[{"compileTarget":"dart2js","renderer":"canvaskit","mainJsPath":"main.dart.js"},{}]};
 
+
 _flutter.loader.load({
+  config: {
+    // Force single-threaded skwasm so it works without cross-origin isolation.
+    // Without this, skwasm requires COOP/COEP headers which break popups
+    // (Google Sign-In) and cross-origin requests (Dio).
+    forceSingleThreadedSkwasm: true,
+  },
   serviceWorkerSettings: {
-    serviceWorkerVersion: "641207192"
-  }
+    serviceWorkerVersion: "3605240550",
+  },
 });
