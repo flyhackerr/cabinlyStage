@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a97d684-8c62-4cd8-8ca4-c22764c7be2a" name="Changes" comment="Release 5">
+      <change beforePath="$PROJECT_DIR$/.last_build_id" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/AssetManifest.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/AssetManifest.bin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/AssetManifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/FontManifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/NOTICES" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/fonts/geist/GeistMono-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/fonts/geist/GeistMono-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/fonts/geist/GeistMono-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/fonts/geist/GeistMono-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/fonts/geist/GeistMono-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/fonts/geist/GeistMono-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/fonts/geist/GeistMono-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/fonts/playfair/PlayfairDisplay-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/fonts/playfair/PlayfairDisplay-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/fonts/playfair/PlayfairDisplay-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/fonts/playfair/PlayfairDisplay-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/fonts/playfair/PlayfairDisplay-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/fonts/playfair/PlayfairDisplay-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/fonts/playfair/PlayfairDisplay-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/fonts/switzer/Switzer-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/fonts/switzer/Switzer-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/fonts/switzer/Switzer-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/fonts/switzer/Switzer-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/fonts/switzer/Switzer-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/fonts/switzer/Switzer-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/fonts/switzer/Switzer-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/ai_bold.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/airbnb_logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/arrow_down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/arrow_right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/automations.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/automations_bold.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/booking_com_logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/booking_connectivity_provider.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/booking_listing_code.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/bookings.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/bookings_bold.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/cabinly.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/cabinlyLogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/cabinly_logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/cabinly_logo_text_black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/cabinly_logo_text_white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/calendar.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/calendar_bold.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/check_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/direct.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/direct_selected.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/facebook_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/finances.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/finances_bold.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/googleIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/home.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/home_selected.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/instagram_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/leo_circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/marketing.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/marketing_bold.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/native_splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/properties.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/properties_bold.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/reports.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/reports_bold.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/sad_face.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/tiktok_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/whatsapp_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/MaterialIcons-Regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/packages/fluttertoast/assets/toastify.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/packages/fluttertoast/assets/toastify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/shaders/ink_sparkle.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvaskit/canvaskit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvaskit/canvaskit.js.symbols" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvaskit/canvaskit.wasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvaskit/chromium/canvaskit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvaskit/chromium/canvaskit.js.symbols" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvaskit/chromium/canvaskit.wasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvaskit/skwasm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvaskit/skwasm.js.symbols" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvaskit/skwasm.wasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvaskit/skwasm_heavy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvaskit/skwasm_heavy.js.symbols" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvaskit/skwasm_heavy.wasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_service_worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/Icon-maskable-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/Icon-maskable-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.dart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/splash/img/dark-1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/splash/img/dark-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/splash/img/dark-3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/splash/img/dark-4x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/splash/img/light-1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/splash/img/light-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/splash/img/light-3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/splash/img/light-4x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/version.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="37sUu4NuYySnMnc51z40UwLDPUj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/kacpe/OneDrive/Dokumenty/cabinlyapp/build/web",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a97d684-8c62-4cd8-8ca4-c22764c7be2a" name="Changes" comment="" />
+      <created>1767691491785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767691491785</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Release 1">
+      <option name="closed" value="true" />
+      <created>1767691644785</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1767691644785</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Release 1">
+      <option name="closed" value="true" />
+      <created>1767692419936</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1767692419936</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Release 2">
+      <option name="closed" value="true" />
+      <created>1768145575706</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1768145575706</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Release 2">
+      <option name="closed" value="true" />
+      <created>1768146320459</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1768146320459</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Release 3">
+      <option name="closed" value="true" />
+      <created>1768754131484</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1768754131484</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Release 4">
+      <option name="closed" value="true" />
+      <created>1770310159861</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1770310159861</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Release 4">
+      <option name="closed" value="true" />
+      <created>1770310805770</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1770310805770</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Release 4">
+      <option name="closed" value="true" />
+      <created>1770311802430</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1770311802430</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Release 4">
+      <option name="closed" value="true" />
+      <created>1770312064268</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1770312064268</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Release 5">
+      <option name="closed" value="true" />
+      <created>1770737267824</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1770737267824</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Release 5">
+      <option name="closed" value="true" />
+      <created>1770738139138</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1770738139138</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Release 5">
+      <option name="closed" value="true" />
+      <created>1770738608931</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1770738608931</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Release 1" />
+    <MESSAGE value="Release 2" />
+    <MESSAGE value="Release 3" />
+    <MESSAGE value="Release 4" />
+    <MESSAGE value="Release 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Release 5" />
+  </component>
+</project>
