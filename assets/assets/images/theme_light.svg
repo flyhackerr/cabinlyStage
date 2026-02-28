@@ -1,0 +1,32 @@
+<svg width="88" height="56" viewBox="0 0 88 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_897_8003)">
+<mask id="path-1-inside-1_897_8003" fill="white">
+<path d="M0 4C0 1.79086 1.79086 0 4 0H84C86.2091 0 88 1.79086 88 4V56H0V4Z"/>
+</mask>
+<path d="M0 4C0 1.79086 1.79086 0 4 0H84C86.2091 0 88 1.79086 88 4V56H0V4Z" fill="white"/>
+<rect width="80" height="2" transform="translate(4 4)" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M5 6C5.55228 6 6 5.55228 6 5C6 4.44772 5.55228 4 5 4C4.44772 4 4 4.44772 4 5C4 5.55228 4.44772 6 5 6Z" fill="#ED6A5E"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9 6C9.55228 6 10 5.55228 10 5C10 4.44772 9.55228 4 9 4C8.44772 4 8 4.44772 8 5C8 5.55228 8.44772 6 9 6Z" fill="#F4BF4F"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M13 6C13.5523 6 14 5.55228 14 5C14 4.44772 13.5523 4 13 4C12.4477 4 12 4.44772 12 5C12 5.55228 12.4477 6 13 6Z" fill="#61C554"/>
+<rect x="4" y="10" width="25.3333" height="17" rx="2" fill="#ECF0F5"/>
+<rect x="31.3333" y="10" width="25.3333" height="17" rx="2" fill="#ECF0F5"/>
+<rect x="58.6667" y="10" width="25.3333" height="17" rx="2" fill="#ECF0F5"/>
+<rect x="4" y="31" width="52" height="2" rx="1" fill="#DBDBE5"/>
+<rect x="4" y="35" width="52" height="2" rx="1" fill="#ECF0F5"/>
+<rect x="4" y="39" width="39" height="2" rx="1" fill="#ECF0F5"/>
+<rect x="59" y="31" width="25" height="6" rx="2" fill="#ABADBE"/>
+<rect x="4" y="45" width="9.71429" height="7" rx="1" fill="#ECF0F5"/>
+<rect x="15.7143" y="45" width="9.71429" height="7" rx="1" fill="#ECF0F5"/>
+<rect x="27.4286" y="45" width="9.71428" height="7" rx="1" fill="#ECF0F5"/>
+<rect x="39.1429" y="45" width="9.71428" height="7" rx="1" fill="#ECF0F5"/>
+<rect x="50.8571" y="45" width="9.71428" height="7" rx="1" fill="#ECF0F5"/>
+<rect x="62.5714" y="45" width="9.71428" height="7" rx="1" fill="#ECF0F5"/>
+<rect x="74.2857" y="45" width="9.71428" height="7" rx="1" fill="#ECF0F5"/>
+</g>
+<path d="M-1 4C-1 1.23858 1.23858 -1 4 -1H84C86.7614 -1 89 1.23858 89 4H87C87 2.34315 85.6569 1 84 1H4C2.34315 1 1 2.34315 1 4H-1ZM88 56H0H88ZM-1 56V4C-1 1.23858 1.23858 -1 4 -1V1C2.34315 1 1 2.34315 1 4V56H-1ZM84 -1C86.7614 -1 89 1.23858 89 4V56H87V4C87 2.34315 85.6569 1 84 1V-1Z" fill="#C0C0CE" mask="url(#path-1-inside-1_897_8003)"/>
+<defs>
+<clipPath id="clip0_897_8003">
+<path d="M0 4C0 1.79086 1.79086 0 4 0H84C86.2091 0 88 1.79086 88 4V56H0V4Z" fill="white"/>
+</clipPath>
+</defs>
+</svg>
