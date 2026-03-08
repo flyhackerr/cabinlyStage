@@ -45,6 +45,6 @@ _flutter.loader.load({
     forceSingleThreadedSkwasm: true,
   },
   serviceWorkerSettings: {
-    serviceWorkerVersion: "187240339",
+    serviceWorkerVersion: "63867265",
   },
 });
