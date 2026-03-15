@@ -9229,7 +9229,7 @@ h.Ak(B.P3,"noCache",o)
 h.Ak(A.be2(B.iE,h.$1$0(p)),"cacheFirst",o)
 h.Ak(A.be2(B.lY,h.$1$0(p)),"softRefresh",o)
 h.Ak(A.be2(B.lY,h.$1$0(p)),"hardRefresh",o)
-q=A.bxk("http://localhost:5000/api/",B.rS,!1,A.F(q,t.z),B.rS,B.kG,B.U3)
+q=A.bxk("https://vps-37abc9d5.vps.ovh.net/api/",B.rS,!1,A.F(q,t.z),B.rS,B.kG,B.U3)
 p=new A.a1A(A.c([B.NU],t.i6))
 p.E(p,B.a85)
 m=new A.a_t($,p,$,new A.aA1(51200),!1)
@@ -57309,7 +57309,7 @@ $.aP.$1("API call (SSE): chat/message")
 s=7
 return A.p1(a.$1$0(t.Pe).$0(),$async$qa,r)
 case 7:l=a9
-k=A.Vy(A.a1(["message",a7,"conversationId",a6],t.N,t.z),l,"http://localhost:5000/api/chat/message")
+k=A.Vy(A.a1(["message",a7,"conversationId",a6],t.N,t.z),l,"https://vps-37abc9d5.vps.ovh.net/api/chat/message")
 j=null
 a=new A.rh(A.hW(k,"stream",t.K),t.KO)
 p=8
